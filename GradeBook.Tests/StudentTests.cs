@@ -1,7 +1,4 @@
-﻿
-using GradeBook;
-
-namespace GradeBook.Tests;
+﻿namespace GradeBook.Tests;
 
 public class StudentTests
 {
